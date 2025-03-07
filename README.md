@@ -1,5 +1,5 @@
 # Discord-Bots
-Collection of Blanc's discord bots!
+Collection of Caleb's discord bots!
 
 List of Bots:
    * Donald Davenport
